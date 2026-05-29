@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/oleg-koval/ai-refactor-playbook-runner/compare/v1.0.2...v1.1.0) (2026-05-29)
+
+
+### Features
+
+* regenerate readme icon ([f4897fe](https://github.com/oleg-koval/ai-refactor-playbook-runner/commit/f4897fe7b57ef07feada777fb43c8be82a6f8e9b))
+
 ## [1.0.2](https://github.com/oleg-koval/ai-refactor-playbook-runner/compare/v1.0.1...v1.0.2) (2026-05-29)
 
 

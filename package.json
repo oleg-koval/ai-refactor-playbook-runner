@@ -1,6 +1,6 @@
 {
   "name": "ai-refactor-playbook-runner",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Markdown-driven AI refactor playbook runner with CLI and local web UI",
   "type": "module",
   "sideEffects": false,
